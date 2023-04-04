@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"autor":"haroru dev hyperledger",
+	"author":"haroru dev hyperledger",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
