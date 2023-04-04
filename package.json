@@ -3,6 +3,7 @@
 	"author": "haroru",
 	"description": "A project that does something awesome in freecodeorg",
 	"keywords": [ "freecodecamp","descriptive", "related", "words" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -17,5 +18,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	
 	
 }
